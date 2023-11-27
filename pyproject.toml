@@ -8,7 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10.0,<3.11"
 
 [tool.pyright]
-# 1. https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+# 12. https://github.com/microsoft/pyright/blob/main/docs/configuration.md
 useLibraryCodeForTypes = true
 exclude = [".cache"]
 
